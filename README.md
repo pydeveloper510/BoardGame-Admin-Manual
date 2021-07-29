@@ -1,2 +1,2 @@
-# BoardGame-manual
-This is BoardGame Manual
+# Initial page
+
