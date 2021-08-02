@@ -4,7 +4,7 @@
 
 ### 1.1 접속
 
-{% embed url="http://foi798.com:8787" %}
+{% embed url="http://foi798.com:8585" %}
 
 ### 1.2 계정정보
 
