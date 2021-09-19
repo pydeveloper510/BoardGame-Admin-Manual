@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BoardGame-Manual](README.md)
+* [BoardGameManual](README.md)
 * [Solution](solution.md)
 * [Manager](manager.md)
 * [API manager](api-manager.md)
