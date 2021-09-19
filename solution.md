@@ -16,7 +16,7 @@
 
 ### 2.1 환경설정 / 기본설정
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/setting-mainsetting.png)
 
 #### 2.1.1  기본설정
 
@@ -52,7 +52,7 @@
 
 ### 2.2 환전센터 / 알소진 알림, 계좌변경
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/withrow-al.png)
 
 #### 2.2.1 알소진 알림
 
@@ -64,7 +64,7 @@
 
 ### 2.3 게임관리 / 보드게임관리
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/game-boardgame.png)
 
 #### 2.3.1 기본설정
 
@@ -86,19 +86,19 @@
 
 ### 3.1 일반관리자 추가
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/sale-manager.png)
 
 영업관리 /일반관리자목록에서 일반관리자 추가 버튼을 눌러 추가할수 있다.
 
 ### 3.2 API 관리자추가
 
-![](.gitbook/assets/image.png)
+![](.gitbook/assets/slae-api.png)
 
 영업관리 / API 관리자목록에서 API관리자 추가 버튼을 눌러 추가 할수 있다. \(추천인코드 추가\)
 
 ### 3.3 하위 부본사 총판 추가
 
-![](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/sale-master.png)
 
 영업관리 / 부본사목록 총판목록에서 하위 부본사 총판을 추가할수 있다. \(추천인코드 추가\)
 

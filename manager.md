@@ -42,7 +42,7 @@
 
 ## 4. 하위 부본사, 총판, 유저추가
 
-![](.gitbook/assets/sale-master.png)
+![](.gitbook/assets/sale-master%20%281%29.png)
 
 영업관리 부본사목록 총판목록에서 하위 부본사 총판을 추가 할수 있다. \(추천인 코드 추가\)
 
