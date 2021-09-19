@@ -4,6 +4,6 @@
 * [Solution](solution.md)
 * [Manager](manager.md)
 * [API manager](api-manager.md)
-* [Master](master.md)
+* [부본사](master.md)
 * [총판](dealer.md)
 
