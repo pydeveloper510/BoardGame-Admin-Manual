@@ -1,2 +1,2 @@
-# BoardGame-Manual
+# BoardGameManual
 
