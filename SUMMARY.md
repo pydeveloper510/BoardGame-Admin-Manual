@@ -1,9 +1,9 @@
 # Table of contents
 
-* [BoardGameManual](README.md)
+* [BoardGame-Manual](README.md)
 * [Solution](solution.md)
 * [Manager](manager.md)
 * [API manager](api-manager.md)
 * [Master](master.md)
-* [Dealer](dealer.md)
+* [총판](dealer.md)
 
