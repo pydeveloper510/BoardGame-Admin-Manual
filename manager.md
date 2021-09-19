@@ -4,7 +4,7 @@
 
 ### 1.1 접속
 
-{% embed url="http://foi798.com:8888" caption="" %}
+{% embed url="http://foi798.com:8888" %}
 
 ### 1.2 계정정보
 
@@ -14,7 +14,7 @@
 
 ### 2.1 게임관리 / 라이센스관리
 
-![](https://github.com/pydeveloper510/BoardGameManual/tree/46eddab4138f7f07ab24e7623ee760536d2f00db/.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
 일반관리자가 해당 게임에 대한 라이센스를 발급받은 후에야 하위 유저들이 게임에 입장할수 있다.
 
@@ -22,15 +22,15 @@
 
 ### 2.2 게임관리 / 알관리
 
-![](https://github.com/pydeveloper510/BoardGameManual/tree/46eddab4138f7f07ab24e7623ee760536d2f00db/.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 일반관리자들은 보유알로 하위 유저들의 충전을 승인해줄수 있다.
 
 게임관리 / 알관리 에서 충전신청버튼을 눌러 알 충전을 신청하여 알을 충전한다.
 
-## 3. 초기설정
+## 3. 초기설정 
 
-### 3.1 환경설정 / 기본설정
+### 3.1 환경설정 / 기본설정 
 
 기본설정에서 해당 요청에 대한 알람을 설정한다.
 
@@ -42,17 +42,16 @@
 
 ## 4. 하위 부본사, 총판, 유저추가
 
-![ ](https://github.com/pydeveloper510/BoardGameManual/tree/46eddab4138f7f07ab24e7623ee760536d2f00db/.gitbook/assets/image%20%284%29.png)
+![ ](.gitbook/assets/image%20%284%29.png)
 
 영업관리 부본사목록 총판목록에서 하위 부본사 총판을 추가 할수 있다. \(추천인 코드 추가\)
 
-![](https://github.com/pydeveloper510/BoardGameManual/tree/46eddab4138f7f07ab24e7623ee760536d2f00db/.gitbook/assets/image%20%2810%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 회원관리 / 회원목록에서 직접유저들을 생성할수 있다.
 
 ## 5. 계정 설정
 
-![](https://github.com/pydeveloper510/BoardGameManual/tree/46eddab4138f7f07ab24e7623ee760536d2f00db/.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/image%20%2811%29.png)
 
 환경설정 / 계정설정에서 관리자의 정보를 확인할수 있으며 비밀번호를 변경할수 있다.
-

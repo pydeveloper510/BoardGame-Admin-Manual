@@ -1,2 +1,2 @@
-# API 관리자
+# API manager
 
