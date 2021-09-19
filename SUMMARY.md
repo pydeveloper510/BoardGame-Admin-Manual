@@ -2,8 +2,8 @@
 
 * [BoardGame-Manual](README.md)
 * [Solution](solution.md)
-* [Manager](manager.md)
-* [API manager](api-manager.md)
+* [일반관리자](manager.md)
+* [API 관리자](api-manager.md)
 * [부본사](master.md)
 * [총판](dealer.md)
 
