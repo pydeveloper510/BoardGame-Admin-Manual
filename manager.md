@@ -14,7 +14,7 @@
 
 ### 2.1 게임관리 / 라이센스관리
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/game-licence.png)
 
 일반관리자가 해당 게임에 대한 라이센스를 발급받은 후에야 하위 유저들이 게임에 입장할수 있다.
 
@@ -22,7 +22,7 @@
 
 ### 2.2 게임관리 / 알관리
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/game-al.png)
 
 일반관리자들은 보유알로 하위 유저들의 충전을 승인해줄수 있다.
 
@@ -42,11 +42,11 @@
 
 ## 4. 하위 부본사, 총판, 유저추가
 
-![](.gitbook/assets/image%20%2811%29.png)
+![](.gitbook/assets/sale-master.png)
 
 영업관리 부본사목록 총판목록에서 하위 부본사 총판을 추가 할수 있다. \(추천인 코드 추가\)
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/m-sale-dealer.png)
 
 회원관리 / 회원목록에서 직접유저들을 생성할수 있다.
 
