@@ -4,7 +4,7 @@
 
 ### 1.1 접속
 
-{% embed url="http://foi798.com:8787" %}
+{% embed url="http://foi798.com:8787" caption="" %}
 
 ### 1.2 계정정보
 
@@ -15,3 +15,4 @@
 ![](.gitbook/assets/image%20%2817%29.png)
 
 환경설정 / 계정설정에서 관리자의 정보를 확인할수 있으며 비밀번호를 변경할수 있다.
+
