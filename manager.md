@@ -52,7 +52,7 @@
 
 ## 5. 계정 설정
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/m-setting-account.png)
 
 환경설정 / 계정설정에서 관리자의 정보를 확인할수 있으며 비밀번호를 변경할수 있다.
 
