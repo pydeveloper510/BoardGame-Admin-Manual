@@ -12,7 +12,7 @@
 
 ## 2. 계정설정
 
-![](https://github.com/pydeveloper510/BoardGameManual/tree/0ec0c866139d880ee65a924fa30a9d1c8cdce8ba/.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 계정설정에서 총판의 정보를 확인할수 있으며 비밀번호를 변경할수 있다.
 
